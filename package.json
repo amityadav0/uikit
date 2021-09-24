@@ -1,14 +1,14 @@
 {
-  "name": "@harmony/uikit",
+  "name": "@pancakeswap/uikit",
   "version": "0.49.1",
-  "description": "Set of UI components for harmony projects",
+  "description": "Set of UI components for pancake projects",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
   "types": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/amityadav0/uikit",
+  "repository": "https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit",
   "license": "MIT",
   "scripts": {
     "start": "yarn storybook",
